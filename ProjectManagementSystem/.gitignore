@@ -1,0 +1,16 @@
+# Build and Output
+build/
+bin/
+target/
+.SmartTomcat/
+
+# IDE Specific
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# OS Specific
+.DS_Store
+Thumbs.db
