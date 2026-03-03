@@ -56,8 +56,3 @@ Set Deployment Directory to src/main/webapp.
 
 Set Context Path to /ProjectManagementSystem.
 
-Access:
-
-Project List: http://localhost:8080/ProjectManagementSystem/project?action=list
-
-Add Project: http://localhost:8080/ProjectManagementSystem/add-project.jsp
