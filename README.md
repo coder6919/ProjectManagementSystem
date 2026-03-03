@@ -1,5 +1,5 @@
 Project Management System (Java MVC)
-A full-stack Java web application for managing projects, resources, and task allocations. This project was developed as part of a technical machine test and follows the Model-View-Controller (MVC) architectural pattern.
+A full-stack Java web application for managing projects, resources, and task allocations. This project was developed as part of a technical machine test and follows the Model-View-Controller (MVC) architectural pattern
 
 🚀 Key Features
 Project CRUD: Create and list projects.
